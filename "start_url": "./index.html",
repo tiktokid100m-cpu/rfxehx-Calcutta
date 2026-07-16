@@ -2,7 +2,7 @@
   "name": "RFXEHX",
   "short_name": "RFXEHX",
   "description": "Amazon প্রোডাক্ট দাম নির্ধারণ ক্যালকুলেটর",
-  "start_url": "./amazon-price-calculator-1.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#101A30",
   "theme_color": "#101A30",
